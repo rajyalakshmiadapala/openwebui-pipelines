@@ -65,3 +65,5 @@ beautifulsoup4
 llama-index
 llama-index-llms-ollama
 
+#DataBase
+clickhouse-connect
